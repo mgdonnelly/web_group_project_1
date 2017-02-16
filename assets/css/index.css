@@ -1,12 +1,3 @@
 body {
-  margin: 0;
-}
-
-
-/* On devices wider than 660px */
-@media(min-width: 660px) {
-}
-
-/* On devices wider than 940px */
-@media(min-width: 940px) {
+  font-size: 10px;
 }

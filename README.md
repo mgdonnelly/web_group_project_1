@@ -1,7 +1,7 @@
 # Coder Girl Web Cohort
 ## Kat's Costume Shop
 
-The purpose of completing this website is to create a mobile-first, responsive demonstration website to prove out and futher practice the HTML and CSS skills you have acquired.
+The purpose of completing this website is to create a mobile-first, responsive demonstration website to prove out and further practice the HTML and CSS skills you have acquired.
 
 ## Getting Started
 
