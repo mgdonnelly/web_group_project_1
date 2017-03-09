@@ -79,20 +79,69 @@ nav li {
    vertical-align: top;
    width: 200px;
    height: 200px;
-   padding: 30px;
+   padding: 25px;
    background-color: #eeeeee;
+}
+ .about p {
+   text-align: left;
 
- }
-.about {
-  display: inline-block;
-  vertical-align: top;
-  width: 200px;
-  height: 200px;
-  padding: 30px;
-  background-color: #eeeeee;
  }
 
  .about + .about {
    margin-left: 15%; margin-right: 15%;
 
  }
+ .triplecats img {
+   width: 25%;
+   padding: 25px;
+   border-radius: 50%;
+ }
+ .touch {
+  text-align: center;
+  margin: 80px 45px 100px
+  vertical-align: top;
+  background-color: lightgrey;
+}
+.business-info {
+  display: inline-block;
+  margin: 45px 200px 80px 200px;
+  background-color: lightgrey;
+}
+.contact-biz {
+  display: inline-block;
+  vertical-align: top;
+  line-height: inherit;
+  width: 250px;
+  height: 200px;
+  padding: 25px;
+  background-color: white;
+  margin-right: 60px;
+  }
+
+.contact-address {
+  display: inline-block;
+  vertical-align: top;
+  line-height: inherit;
+  width: 250px;
+  height: 200px;
+  padding: 25px;
+  background-color: white;
+  margin-left: 60px;
+
+  }
+  .contact-address span {
+  color: #f26522;
+  }
+  #city {
+    padding-left: 78px;
+  }
+   footer {
+    text-align: center;
+    background-color: #00897f;
+    height: 125px;
+
+  }
+  footer h1 {
+    color: white;
+    padding-top: 42px;
+  }
